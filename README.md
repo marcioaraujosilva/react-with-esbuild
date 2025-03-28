@@ -32,12 +32,17 @@ In Windows **Powershell** terminal, type:
   Set-Location -Path my_app
 ```
 
-### Initialize npm project
+### Initialize project
 
 Type:
 
 ```bash
   npm init -y
+```
+OR ...
+
+```bash
+  yarn init -y
 ```
 
 Show ***my_app*** directory content, type:
