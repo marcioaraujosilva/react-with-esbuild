@@ -51,7 +51,7 @@ In ***Nix** terminals, type:
 In Windows **Powershell** terminal, type:
 
 ```powershell
-  Get-Item .
+  Get-Item .\*
 ```
 
 Showed actual structure:
